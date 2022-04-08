@@ -1,4 +1,4 @@
-# portfolio 
+# Portfolio repo
 
 ## README.md will contain SSH keys, logging and various other information
 

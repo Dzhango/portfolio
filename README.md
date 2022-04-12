@@ -8,3 +8,8 @@
 
 ## CI pipeline
 ![pipeline diagram](media/pipeline.png) 
+
+
+## Login for bayandarov.info access:
+* dzhangir
+* Love4fun@
